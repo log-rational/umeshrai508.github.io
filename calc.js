@@ -2,7 +2,7 @@ updateTotal();
 
 var calcSliders = document.querySelectorAll('.calc-slider');
 for (var i = 0; i < calcSliders.length; i++) {
-    calcSliders[i].addEventListener('change', function (event) {
+    calcSliders[i].addEventListener('input', function (event) {
         if (event.target.id === 'amoutPerclass') {
             document.querySelector('#valAmountPerClass').innerText = "$" + parseInt(event.target.value).toFixed(2);
         } else if (event.target.id === 'numAttendees') {
