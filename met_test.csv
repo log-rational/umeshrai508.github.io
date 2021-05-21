@@ -1,0 +1,336 @@
+"",Country,ICAO,time,x,y,W dir,W speed,Gust,CAVOK,Weather,Min. visib,Cloud base,Temp,Dewpoint,T-Td,METAR,TAF
+CARR GATE,United Kingdom,AWCA,N/A,-1.49,53.68,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LANGWATHBY,United Kingdom,AWLA,N/A,-1.56,54.52,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BELFAST INTERNATIONAL AIRPORT,United Kingdom,EGAA,2021/05/21 03:50:00,-6.23,54.66,010 °,9 kt,-,No,Slight rain,5000 m,700 ft,9 °C,8 °C,1 °C,"METAR EGAA 210350Z 01009KT 5000 -RA BR <font color=""green"">OVC007</font> 09/08 Q0986", 
+BELFAST CITY AIRPORT,United Kingdom,EGAC,2021/05/21 03:50:00,-5.88,54.60,020 °,15 kt,-,No,N/A,9999 m,900 ft,10 °C,9 °C,1 °C,"METAR EGAC 210350Z AUTO 02015KT 9999 <font color=""green"">OVC009///</font> 10/09 Q0985", 
+NEWTOWNARDS,United Kingdom,EGAD,N/A,-5.68,54.58,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CITY OF DERRY AIRPORT,United Kingdom,EGAE,N/A,-7.16,55.03,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BIRMINGHAM (ELMDON) AIRPORT,United Kingdom,EGBB,2021/05/21 03:50:00,-1.73,52.45,200 °,11 kt,-,No,N/A,9999 m,900 ft,9 °C,8 °C,1 °C,"METAR EGBB 210350Z 20011KT 150V230 9999 <font color=""green"">SCT009</font> BKN020 09/08 Q0991<br/>
+    RERA", 
+DERBY/BURNASTON,United Kingdom,EGBD,N/A,-1.61,52.86,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+COVENTRY AIRPORT,United Kingdom,EGBE,N/A,-1.48,52.36,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LEICESTER,United Kingdom,EGBG,N/A,-1.03,52.60,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+GLOUCESTER AND CHELTENHAM/STAVERTON,United Kingdom,EGBJ,N/A,-2.16,51.90,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NORTHAMPTON/SYWELL,United Kingdom,EGBK,N/A,-0.80,52.30,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+TATENHILL,United Kingdom,EGBM,N/A,-1.76,52.81,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NOTTINGHAM,United Kingdom,EGBN,N/A,-1.08,52.91,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HALFPENNY GREEN,United Kingdom,EGBO,N/A,-2.25,52.51,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHOBDON,United Kingdom,EGBS,N/A,-2.88,52.23,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WELLESBOURNE MOUNTFORD,United Kingdom,EGBW,N/A,-1.61,52.20,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+MANCHESTER/BARTON,United Kingdom,EGCB,N/A,-2.38,53.46,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+MANCHESTER RINGWAY AIRPORT,United Kingdom,EGCC,2021/05/21 03:50:00,-2.25,53.35,200 °,10 kt,22 kt,No,Slight rain,9999 m,1400 ft,10 °C,8 °C,2 °C,"METAR COR EGCC 210350Z AUTO 20010G22KT 160V230 9999 -RA <font color=""green"">BKN014</font> OVC025 10/08 Q0987 TEMPO BKN015", 
+WOODFORD,United Kingdom,EGCD,N/A,-2.15,53.33,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SANDTOFT,United Kingdom,EGCF,N/A,-0.85,53.56,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHERBURN-IN-ELMET,United Kingdom,EGCJ,N/A,-1.21,53.78,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CAERNARFON,United Kingdom,EGCK,2021/05/21 03:50:00,-4.33,53.10,220 °,25 kt,37 kt,No,Moderate Rain,3500 m,200 ft,10 °C,9 °C,1 °C,"METAR EGCK 210350Z AUTO 22025G37KT <font color=""yellow"">3500</font> RA FEW002/// <font color=""yellow"">BKN006///</font><br/>
+    OVC016/// 10/09 Q0985 RERA","TAF  EGCK 210156Z 2103/2112 23025G40KT 9999 <font color=""green"">BKN012</font> BECMG 2103/2106<br/>
+    26018G28KT TEMPO 2103/2112 6000 RA SHRA <font color=""green"">BKN008</font> PROB30 TEMPO<br/>
+    2103/2112 2000 +RA <font color=""orange"">BKN002</font> BECMG 2109/2112 32014KT"
+FENLAND,United Kingdom,EGCL,N/A,-0.03,52.73,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+DONCASTER SHEFFIELD AIRPORT,United Kingdom,EGCN,2021/05/21 03:50:00,-1.00,53.48,190 °,19 kt,-,No,N/A,9999 m,1700 ft,11 °C,8 °C,3 °C,"METAR EGCN 210350Z AUTO 19019KT 9999 <font color=""white"">SCT017///</font> BKN022///<br/>
+    BKN028/// 11/08 Q0990", 
+STURGATE,United Kingdom,EGCS,N/A,-0.68,53.38,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+TILSTOCK,United Kingdom,EGCT,N/A,-2.63,52.93,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SLEAP,United Kingdom,EGCV,N/A,-2.76,52.83,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WELSHPOOL,United Kingdom,EGCW,N/A,-3.15,52.63,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PLYMOUTH/MOUNTBATTEN,United Kingdom,EGDB,N/A,-4.12,50.35,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CHIVENOR,United Kingdom,EGDC,N/A,-4.15,51.08,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+MERRYFIELD,United Kingdom,EGDI,N/A,-2.93,50.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LYNEHAM,United Kingdom,EGDL,N/A,-1.98,51.50,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BOSCOMBE DOWN,United Kingdom,EGDM,2021/05/21 03:50:00,-1.75,51.16,220 °,21 kt,32 kt,No,N/A,9999 m,1900 ft,10 °C,7 °C,3 °C,"METAR EGDM 210350Z AUTO 22021G32KT <font color=""blue"">9999</font> FEW019/// <font color=""blue"">BKN050///</font> 10/07 Q0997", 
+NETHERAVON CAMP,United Kingdom,EGDN,N/A,-1.76,51.25,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PREDANNACK,United Kingdom,EGDO,N/A,-5.23,50.00,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PORTLAND/RNAS,United Kingdom,EGDP,N/A,-2.45,50.57,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CULDROSE,United Kingdom,EGDR,2021/05/21 03:50:00,-5.26,50.08,240 °,22 kt,33 kt,No,N/A,9999 m,2100 ft,11 °C,7 °C,4 °C,"METAR EGDR 210350Z AUTO 24022G33KT 9999 // <font color=""white"">SCT021///</font> BKN033/// 11/07 Q1001", 
+WROUGHTON,United Kingdom,EGDT,N/A,-1.80,51.51,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+ST. ATHAN,United Kingdom,EGDX,N/A,-3.43,51.41,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+YEOVILTON,United Kingdom,EGDY,2021/05/21 03:50:00,-2.63,51.01,220 °,17 kt,27 kt,No,N/A,9999 m,2300 ft,10 °C,7 °C,3 °C,"METAR EGDY 210350Z AUTO 22017G27KT <font color=""blue"">9999</font> -RADZ FEW023/// <font color=""blue"">SCT027///</font> 10/07 Q0997",TAF  EGDY 210000Z 2018/2103 CNL
+MACHRIHANISH,United Kingdom,EGEC,N/A,-5.70,55.43,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+OBAN,United Kingdom,EGEO,N/A,-5.40,56.47,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HAVERFORDWEST,United Kingdom,EGFE,N/A,-4.96,51.83,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CARDIFF-WALES AIRPORT,United Kingdom,EGFF,2021/05/21 03:50:00,-3.35,51.40,250 °,26 kt,42 kt,No,Slight rain,9999 m,1600 ft,10 °C,8 °C,2 °C,"METAR EGFF 210350Z AUTO 25026G42KT 9999 -RA <font color=""white"">BKN016///</font> OVC037///<br/>
+    //////TCU 10/08 Q0994", 
+SWANSEA AIRPORT,United Kingdom,EGFH,N/A,-4.06,51.60,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BRISTOL/LULSGATE AIRPORT,United Kingdom,EGGD,2021/05/21 03:50:00,-2.71,51.38,220 °,17 kt,-,No,Slight rain,6000 m,900 ft,9 °C,7 °C,2 °C,"METAR EGGD 210350Z AUTO 22017KT 6000 -RA <font color=""green"">BKN009</font> OVC015 09/07<br/>
+    Q0996", 
+LIVERPOOL AIRPORT,United Kingdom,EGGP,2021/05/21 03:50:00,-2.85,53.33,170 °,15 kt,-,No,N/A,9999 m,1400 ft,12 °C,11 °C,1 °C,"METAR EGGP 210350Z AUTO 17015KT 9999 FEW014/// <font color=""white"">BKN018///</font><br/>
+    BKN023/// 12/11 Q0986","TAF  EGGP 210146Z 2101/2124 17015KT 9999 <font color=""yellow"">SCT006</font> BKN020<br/>
+     TEMPO 2101/2124 7000 RA SHRA <font color=""yellow"">BKN006</font><br/>
+     PROB30 TEMPO 2101/2118 4000 +RA <font color=""yellow"">BKN004</font><br/>
+     PROB30 TEMPO 2101/2115 20018G28KT<br/>
+     BECMG 2103/2106 23012KT<br/>
+     BECMG 2112/2115 30012KT"
+LUTON AIRPORT,United Kingdom,EGGW,2021/05/21 03:50:00,-0.36,51.88,210 °,18 kt,29 kt,No,N/A,9999 m,1900 ft,10 °C,6 °C,4 °C,"METAR EGGW 210350Z AUTO 21018G29KT 9999 <font color=""white"">BKN019</font> OVC027 10/06<br/>
+    Q0996", 
+COMPTON ABBAS,United Kingdom,EGHA,N/A,-2.15,50.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LAND'S END (ST. JUST),United Kingdom,EGHC,N/A,-5.66,50.10,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PLYMOUTH/ROBOROUGH,United Kingdom,EGHD,N/A,-4.11,50.41,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+YEOVIL/WESTLAND,United Kingdom,EGHG,N/A,-2.66,50.93,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BOURNEMOUTH AIRPORT,United Kingdom,EGHH,N/A,-1.83,50.78,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SOUTHAMPTON/EASTLEIGH,United Kingdom,EGHI,N/A,-1.35,50.95,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BEMBRIDGE,United Kingdom,EGHJ,N/A,-1.10,50.68,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PENZANCE HELIPORT,United Kingdom,EGHK,N/A,-5.52,50.13,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LASHAM,United Kingdom,EGHL,N/A,-1.03,51.18,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SANDOWN (ISLE OF WIGHT),United Kingdom,EGHN,N/A,-1.18,50.65,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+THRUXTON,United Kingdom,EGHO,N/A,-1.60,51.21,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+POPHAM,United Kingdom,EGHP,N/A,-1.23,51.20,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NEWQUAY CORNWALL AIRPORT,United Kingdom,EGHQ,N/A,-5.00,50.42,-,-,-,N/A,N/A,-,-,-,-,-,-,"TAF  EGHQ 210156Z 2103/2112 25028G44KT 9999 <font color=""white"">SCT019</font> BKN028 PROB30<br/>
+    TEMPO 2103/2112 BKN014 PROB30 TEMPO 2103/2108 <font color=""white"">6000</font> SHRA TEMPO<br/>
+    2108/2112 <font color=""white"">6000</font> RA SHRA"
+CHICHESTER/GOODWOOD,United Kingdom,EGHR,N/A,-0.76,50.86,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHOREHAM AIRPORT,United Kingdom,EGKA,N/A,-0.28,50.83,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BIGGIN HILL,United Kingdom,EGKB,N/A,0.03,51.33,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CHALLOCK,United Kingdom,EGKE,N/A,0.83,51.20,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LASHENDEN/HEADCORN,United Kingdom,EGKH,N/A,0.65,51.15,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LONDON/GATWICK AIRPORT,United Kingdom,EGKK,2021/05/21 03:50:00,-0.18,51.15,220 °,16 kt,27 kt,No,Slight rain,9000 m,2100 ft,11 °C,7 °C,4 °C,"METAR EGKK 210350Z 22016G27KT 9000 -RA <font color=""white"">SCT021</font> BKN027 11/07 Q0999", 
+REDHILL,United Kingdom,EGKR,N/A,-0.13,51.21,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BODMIN,United Kingdom,EGLA,N/A,-4.66,50.50,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LONDON CITY,United Kingdom,EGLC,2021/05/21 03:50:00,0.05,51.50,220 °,15 kt,25 kt,No,N/A,9999 m,2600 ft,11 °C,6 °C,5 °C,"METAR EGLC 210350Z AUTO 22015G25KT 190V260 <font color=""blue"">9999</font> FEW026 <font color=""blue"">BKN032</font><br/>
+    BKN039 11/06 Q0998","TAF  EGLC 210205Z 2103/2112 22020G35KT <font color=""blue"">9999</font> <font color=""blue"">SCT030</font> PROB30 TEMPO<br/>
+    2103/2112 <font color=""white"">7000</font> SHRA"
+DENHAM,United Kingdom,EGLD,N/A,-0.51,51.58,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+FARNBOROUGH,United Kingdom,EGLF,N/A,-0.78,51.28,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BLACKBUSHE,United Kingdom,EGLK,N/A,-0.85,51.31,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LONDON Heathrow,United Kingdom,EGLL,2021/05/21 03:50:00,-0.45,51.47,220 °,18 kt,-,No,N/A,9999 m,2400 ft,11 °C,7 °C,4 °C,"METAR COR EGLL 210350Z AUTO 22018KT 9999 <font color=""white"">SCT024///</font> SCT039/// //////TCU 11/07 Q0998 NOSIG", 
+WHITE WALTHAM,United Kingdom,EGLM,N/A,-0.76,51.50,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+OLD SARUM,United Kingdom,EGLS,N/A,-1.78,51.10,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LONDON (BATTERSEA) HELIPORT,United Kingdom,EGLW,N/A,-0.16,51.46,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+FOWLMERE,United Kingdom,EGMA,N/A,0.06,52.08,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SOUTHEND AIRPORT,United Kingdom,EGMC,2021/05/21 03:50:00,0.70,51.56,220 °,22 kt,-,No,N/A,9999 m,2800 ft,11 °C,6 °C,5 °C,"METAR EGMC 210350Z 22022KT <font color=""blue"">9999</font> FEW028 <font color=""blue"">SCT048</font> 11/06 Q0998","TAF  EGMC 210205Z 2103/2112 21025G40KT <font color=""blue"">9999</font> FEW035 PROB30 TEMPO<br/>
+    2103/2112 <font color=""white"">7000</font> SHRA"
+LYDD,United Kingdom,EGMD,2021/05/21 03:50:00,0.94,50.96,230 °,31 kt,42 kt,No,N/A,9999 m,2300 ft,12 °C,9 °C,3 °C,"METAR EGMD 210350Z AUTO 23031G42KT 9999 <font color=""white"">BKN023///</font> 12/09 Q1002","TAF  EGMD 210205Z 2103/2112 23025KT <font color=""blue"">9999</font> FEW040 TEMPO 2103/2112<br/>
+    22028G43KT PROB30 TEMPO 2103/2112 <font color=""white"">7000</font> SHRA"
+MANSTON,United Kingdom,EGMH,N/A,1.33,51.35,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LITTLE GRANSDEN,United Kingdom,EGMJ,N/A,-0.15,52.16,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LOWESTOFT HARBOUR,United Kingdom,EGMW,N/A,1.76,52.47,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HUCKNALL,United Kingdom,EGNA,N/A,-1.21,53.01,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CARLISLE/CROSBY,United Kingdom,EGNC,N/A,-2.81,54.93,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+RETFORD/GAMSTON,United Kingdom,EGNE,N/A,-0.95,53.28,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NETHERTHORPE,United Kingdom,EGNF,N/A,-1.20,53.31,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BLACKPOOL AIRPORT,United Kingdom,EGNH,N/A,-3.03,53.76,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HUMBERSIDE,United Kingdom,EGNJ,2021/05/21 03:50:00,-0.35,53.58,190 °,16 kt,-,No,N/A,9999 m,1500 ft,11 °C,9 °C,2 °C,"METAR EGNJ 210350Z AUTO 19016KT 9999 <font color=""white"">BKN015///</font> OVC019/// 11/09<br/>
+    Q0990","TAF  EGNJ 210156Z 2103/2112 20016G26KT 9999 <font color=""white"">BKN016</font> TEMPO 2103/2112<br/>
+    BKN012 PROB30 TEMPO 2103/2105 <font color=""white"">7000</font> RA SHRA TEMPO 2105/2112 <font color=""white"">7000</font><br/>
+    RA SHRA"
+BARROW/WALNEY ISLAND,United Kingdom,EGNL,N/A,-3.26,54.13,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LEEDS AND BRADFORD,United Kingdom,EGNM,N/A,-1.65,53.86,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WARTON,United Kingdom,EGNO,N/A,-2.88,53.75,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HAWARDEN AIRPORT,United Kingdom,EGNR,N/A,-2.98,53.16,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HAWARDEN AIRPORT,United Kingdom,EGNR,N/A,-2.98,53.16,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+RONALDSWAY,United Kingdom,EGNS,2021/05/21 03:50:00,-4.63,54.08,320 °,4 kt,-,No,N/A,9999 m,500 ft,10 °C,9 °C,1 °C,"METAR EGNS 210350Z 32004KT 280V360 <font color=""blue"">9999</font> FEW005 <font color=""blue"">SCT030</font> 10/09 Q0982","TAF  EGNS 210400Z 2105/2112 35010KT <font color=""blue"">9999</font> FEW005 <font color=""blue"">BKN040</font> PROB40 TEMPO 2105/2112 8000 RA <font color=""green"">BKN008</font>"
+NEWCASTLE/WOOLSINGTON,United Kingdom,EGNT,2021/05/21 03:50:00,-1.68,55.03,990,2 kt,-,No,N/A,9999 m,800 ft,9 °C,9 °C,0 °C,"METAR EGNT 210350Z AUTO VRB02KT 9999 <font color=""green"">BKN008///</font> OVC021/// 09/09<br/>
+    Q0987 RERA","TAF  EGNT 210305Z 2103/2124 11006KT 9999 <font color=""green"">SCT010</font> BKN020<br/>
+     TEMPO 2103/2124 6000 RA SHRA <font color=""green"">BKN008</font><br/>
+     PROB30 TEMPO 2103/2124 4000 +RA +SHRA <font color=""yellow"">BKN004</font><br/>
+     BECMG 2109/2112 03010KT<br/>
+     TEMPO 2116/2124 04015G25KT<br/>
+     PROB30 TEMPO 2118/2124 04025G35KT"
+TEES-SIDE,United Kingdom,EGNV,N/A,-1.41,54.51,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WICKENBY,United Kingdom,EGNW,N/A,-0.35,53.31,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+EAST MIDLANDS,United Kingdom,EGNX,2021/05/21 03:50:00,-1.33,52.83,200 °,19 kt,30 kt,No,N/A,9999 m,1400 ft,10 °C,7 °C,3 °C,"METAR EGNX 210350Z 20019G30KT 9999 <font color=""green"">BKN014</font> BKN035 10/07 Q0990", 
+TERNHILL AIRFIELD,United Kingdom,EGOE,N/A,-2.53,52.87,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SPADEADAM NO 2,United Kingdom,EGOM,2021/05/21 03:50:00,-2.55,55.05,080 °,9 kt,-,No,Slight rain,4900 m,200 ft,8 °C,8 °C,0 °C,"METAR EGOM 210350Z AUTO 08009KT 4900 -RA <font color=""orange"">BKN002///</font> BKN015/// 08/08 Q0986", 
+PEMBREY SANDS,United Kingdom,EGOP,2021/05/21 03:50:00,-4.36,51.71,240 °,42 kt,56 kt,No,N/A,2300 m,1400 ft,11 °C,9 °C,2 °C,"METAR EGOP 210350Z AUTO 24042G56KT <font color=""yellow"">2300</font> // BKN014/// 11/09 Q0993", 
+MONA,United Kingdom,EGOQ,N/A,-4.36,53.26,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHAWBURY,United Kingdom,EGOS,2021/05/21 03:50:00,-2.66,52.78,200 °,16 kt,-,No,Moderate drizzle,9999 m,2100 ft,10 °C,8 °C,2 °C,"METAR EGOS 210350Z AUTO 20016KT 9999 DZ <font color=""white"">SCT021///</font> BKN030/// 10/08 Q0988", 
+OTTERBURN RANGE,United Kingdom,EGOT,N/A,-2.28,55.28,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+VALLEY,United Kingdom,EGOV,2021/05/21 03:50:00,-4.53,53.25,240 °,26 kt,37 kt,No,Unknown precipitation,1200 m,400 ft,10 °C,10 °C,0 °C,"METAR EGOV 210350Z AUTO 24026G37KT <font color=""orange"">1200</font> UP BKN004/// BKN009/// BKN014/// 10/10 Q0984", 
+WOODVALE,United Kingdom,EGOW,N/A,-3.05,53.58,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WEST FREUGH,United Kingdom,EGOY,N/A,-4.93,54.86,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+KIRKWALL,United Kingdom,EGPA,2021/05/21 03:50:00,-2.90,58.95,060 °,16 kt,-,No,Slight rain,9999 m,1400 ft,7 °C,4 °C,3 °C,"METAR EGPA 210350Z AUTO 06016KT 9999 -RA <font color=""green"">BKN014///</font> BKN023///<br/>
+    OVC033/// 07/04 Q1001","TAF  EGPA 210159Z 2103/2112 07015KT 9999 <font color=""white"">BKN020</font> TEMPO 2103/2112<br/>
+    08018G28KT 7000 -RA <font color=""green"">BKN012</font>"
+SUMBURGH,United Kingdom,EGPB,2021/05/21 03:50:00,-1.30,59.88,070 °,19 kt,-,No,N/A,9999 m,2000 ft,7 °C,3 °C,4 °C,"METAR EGPB 210350Z AUTO 07019KT 9999 <font color=""white"">SCT020///</font> 07/03 Q1003","TAF  EGPB 210159Z 2103/2112 06017KT 9999 <font color=""white"">BKN020</font>"
+WICK AIRPORT,United Kingdom,EGPC,2021/05/21 03:50:00,-3.08,58.45,060 °,20 kt,-,No,N/A,9999 m,1500 ft,7 °C,5 °C,2 °C,"METAR EGPC 210350Z AUTO 06020KT 9999 <font color=""white"">BKN015///</font> OVC028/// 07/05<br/>
+    Q0999","TAF  EGPC 210159Z 2103/2112 06019KT 9999 <font color=""green"">SCT010</font> BKN025 TEMPO<br/>
+    2103/2112 07023G35KT 8000 -RA <font color=""green"">BKN010</font> PROB40 TEMPO 2103/2109 <font color=""yellow"">3000</font><br/>
+    RA <font color=""yellow"">BKN006</font>"
+ABERDEEN AIRPORT,United Kingdom,EGPD,2021/05/21 03:50:00,-2.20,57.21,050 °,15 kt,-,No,N/A,9999 m,400 ft,8 °C,7 °C,1 °C,"METAR COR EGPD 210350Z AUTO 05015KT 9999 <font color=""yellow"">OVC004</font> 08/07 Q0994 TEMPO 4000 RADZ","TAF  EGPD 210137Z 2101/2124 06015KT 9999 <font color=""yellow"">SCT006</font> BKN010<br/>
+     TEMPO 2101/2112 2500 RA <font color=""yellow"">BKN004</font><br/>
+     TEMPO 2101/2106 07018G28KT<br/>
+     BECMG 2106/2109 03018G28KT<br/>
+     TEMPO 2112/2124 7000 -RA <font color=""green"">BKN008</font><br/>
+     PROB40 TEMPO 2112/2116 3000 RA <font color=""yellow"">BKN004</font><br/>
+     BECMG 2115/2118 36015KT<br/>
+     TEMPO 2118/2124 01018G30KT<br/>
+     PROB40 TEMPO 2121/2124 SCT012 BKN018"
+INVERNESS/DALCROSS,United Kingdom,EGPE,2021/05/21 03:50:00,-4.05,57.53,040 °,20 kt,31 kt,No,Slight showers,9999 m,800 ft,8 °C,7 °C,1 °C,"METAR EGPE 210350Z 04020G31KT 9999 -SHRA FEW008 <font color=""green"">SCT010</font> BKN032<br/>
+    08/07 Q0996","TAF  EGPE 210159Z 2103/2112 05014KT 9999 FEW010 <font color=""white"">BKN017</font> TEMPO<br/>
+    2103/2112 7000 -RA <font color=""green"">BKN014</font> PROB40 TEMPO 2103/2112 06018G28KT 5000<br/>
+    RA <font color=""yellow"">BKN004</font>"
+GLASGOW (ABBOTSINCH) AIRPORT,United Kingdom,EGPF,2021/05/21 03:50:00,-4.43,55.86,040 °,12 kt,-,No,Slight rain,9999 m,1500 ft,9 °C,8 °C,1 °C,"METAR EGPF 210350Z AUTO 04012KT 9999 -RA <font color=""white"">OVC015///</font> //////TCU<br/>
+    09/08 Q0988","TAF  EGPF 210206Z 2102/2124 05017KT 9999 <font color=""green"">SCT012</font> BKN025<br/>
+     TEMPO 2102/2114 6000 -RA <font color=""green"">BKN009</font><br/>
+     PROB40 TEMPO 2108/2115 06019G30KT<br/>
+     PROB40 TEMPO 2114/2124 <font color=""white"">7000</font> -RA<br/>
+     BECMG 2115/2118 35009KT"
+CUMBERNAULD,United Kingdom,EGPG,N/A,-3.96,55.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+EDINBURGH (TURNHOUSE) AIRPORT,United Kingdom,EGPH,2021/05/21 03:50:00,-3.35,55.95,050 °,13 kt,-,No,Slight rain,8000 m,300 ft,9 °C,9 °C,0 °C,"METAR EGPH 210350Z 05013KT 8000 -RA <font color=""yellow"">BKN003</font> 09/09 Q0988","TAF  EGPH 210105Z 2101/2124 06013KT 9999 <font color=""yellow"">SCT006</font> BKN012<br/>
+     TEMPO 2101/2115 8000 -RA <font color=""yellow"">BKN004</font><br/>
+     PROB40 TEMPO 2101/2113 <font color=""green"">4000</font> RA<br/>
+     TEMPO 2106/2115 06018G28KT<br/>
+     BECMG 2112/2115 36015KT<br/>
+     BECMG 2115/2118 SCT020<br/>
+     TEMPO 2115/2122 01018G30KT<br/>
+     PROB40 TEMPO 2115/2124 <font color=""white"">7000</font> -RA"
+ISLAY/PORT ELLEN,United Kingdom,EGPI,2021/05/21 03:50:00,-6.25,55.68,030 °,18 kt,-,No,N/A,9999 m,-,9 °C,7 °C,2 °C,"METAR EGPI 210350Z AUTO 03018KT 230V300 <font color=""blue"">9999</font> <font color=""blue"">NCD</font> 09/07 Q0989","TAF  EGPI 210159Z 2103/2112 03015KT <font color=""blue"">9999</font> <font color=""blue"">SCT030</font> TEMPO 2103/2112<br/>
+    03020G35KT 6000 RA <font color=""green"">BKN012</font>"
+FIFE/GLENROTHES,United Kingdom,EGPJ,N/A,-3.21,56.18,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PRESTWICK AIRPORT,United Kingdom,EGPK,2021/05/21 03:50:00,-4.58,55.50,050 °,17 kt,-,No,Slight rain,9999 m,4700 ft,10 °C,8 °C,2 °C,"METAR EGPK 210350Z AUTO 05017KT <font color=""blue"">9999</font> -RA <font color=""blue"">BKN047///</font> 10/08 Q0987", 
+BENBECULA,United Kingdom,EGPL,2021/05/21 03:50:00,-7.36,57.48,040 °,27 kt,-,No,N/A,9999 m,1600 ft,8 °C,5 °C,3 °C,"METAR EGPL 210350Z AUTO 04027KT 9999 <font color=""white"">BKN016///</font> 08/05 Q0997","TAF  EGPL 210159Z 2103/2112 04025KT 9999 FEW010 <font color=""white"">SCT020</font> TEMPO<br/>
+    2103/2112 BKN012 PROB30 TEMPO 2103/2112 05028G38KT <font color=""blue"">8000</font> -SHRA"
+SCATSTA,United Kingdom,EGPM,N/A,-1.30,60.43,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+DUNDEE (RIVERSIDE PARK),United Kingdom,EGPN,N/A,-3.03,56.45,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+STORNOWAY AIRPORT,United Kingdom,EGPO,2021/05/21 03:50:00,-6.31,58.21,040 °,22 kt,32 kt,No,N/A,9999 m,1400 ft,7 °C,5 °C,2 °C,"METAR EGPO 210350Z AUTO 04022G32KT 9999 <font color=""green"">OVC014///</font> 07/05 Q1000","TAF  EGPO 210159Z 2103/2112 05025KT 9999 <font color=""green"">SCT012</font> BKN020 TEMPO<br/>
+    2103/2112 BKN012 PROB30 TEMPO 2103/2112 06028G38KT 8000 -SHRA<br/>
+    <font color=""green"">BKN008</font>"
+BARRA,United Kingdom,EGPR,N/A,-7.46,57.03,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PERTH/SCONE,United Kingdom,EGPT,N/A,-3.36,56.43,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+TIREE,United Kingdom,EGPU,2021/05/21 03:50:00,-6.88,56.50,040 °,23 kt,-,No,N/A,9999 m,3400 ft,9 °C,6 °C,3 °C,"METAR EGPU 210350Z AUTO 04023KT <font color=""blue"">9999</font> <font color=""blue"">SCT034///</font> 09/06 Q0992", 
+UNST,United Kingdom,EGPW,N/A,-0.85,60.75,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+TAIN RANGE,United Kingdom,EGQA,N/A,-3.96,57.81,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+GARVIE ISLAND,United Kingdom,EGQC,N/A,-4.86,58.61,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+KINLOSS,United Kingdom,EGQK,2021/05/21 03:50:00,-3.56,57.65,060 °,19 kt,-,No,N/A,9999 m,1100 ft,8 °C,7 °C,1 °C,"METAR EGQK 210350Z AUTO 06019KT 9999 FEW011/// <font color=""white"">SCT018///</font> BKN028/// 08/07 Q0996 RERA", 
+LEUCHARS,United Kingdom,EGQL,2021/05/21 03:50:00,-2.86,56.38,070 °,18 kt,-,No,Slight rain,7000 m,300 ft,9 °C,9 °C,0 °C,"METAR EGQL 210350Z 07018KT 7000 -RA <font color=""yellow"">OVC003</font> 09/09 Q0990 YLO2","TAF  EGQL 210115Z 2103/2112 07018KT 9000 -RA <font color=""green"">BKN008</font> TEMPO 2103/2109<br/>
+    08020G30KT 5000 RA <font color=""yellow"">BKN006</font> PROB40 TEMPO 2103/2110 <font color=""yellow"">2000</font> RADZ<br/>
+    <font color=""yellow"">BKN003</font> BECMG 2106/2109 04020KT TEMPO 2109/2112 05022G32KT 5000<br/>
+    RA <font color=""yellow"">BKN006</font>"
+BOULMER,United Kingdom,EGQM,2021/05/21 03:50:00,-1.60,55.41,120 °,7 kt,-,No,Moderate Rain,6000 m,900 ft,9 °C,9 °C,0 °C,"METAR EGQM 210350Z AUTO 12007KT 6000 RA <font color=""green"">BKN009///</font> 09/09 Q0987", 
+ROSEHEARTY,United Kingdom,EGQO,N/A,-2.11,57.70,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LOSSIEMOUTH,United Kingdom,EGQS,2021/05/21 03:50:00,-3.31,57.71,060 °,18 kt,-,No,Slight showers,9999 m,1100 ft,9 °C,7 °C,2 °C,"METAR EGQS 210350Z 06018KT 9999 -SHRA <font color=""green"">SCT011</font> SCT018 BKN030 09/07 Q0996  RMK GRN","TAF  EGQS 210403Z 2106/2124 05022G32KT 9999 <font color=""white"">BKN015</font> TEMPO 2106/2119<br/>
+    6000 RA <font color=""green"">BKN012</font> PROB30 TEMPO 2106/2114 <font color=""yellow"">3000</font> RADZ <font color=""yellow"">SCT006</font> BKN010<br/>
+    BECMG 2113/2116 02022G32KT BECMG 2119/2122 35015KT BKN025 TEMPO<br/>
+    2121/2124 SCT020"
+BRISTOL WEATHER CENTRE,United Kingdom,EGRD,N/A,-2.60,51.47,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+MUNGO (OIL RIG),United Kingdom,EGRP,N/A,2.00,57.38,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WEST SOLE (OIL RIG),United Kingdom,EGRW,N/A,1.15,53.70,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHIPDHAM,United Kingdom,EGSA,N/A,0.93,52.63,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BEDFORD/CASTLE MILL,United Kingdom,EGSB,N/A,-0.40,52.15,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CAMBRIDGE,United Kingdom,EGSC,N/A,0.18,52.20,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+GREAT YARMOUTH/NORTH DENES,United Kingdom,EGSD,N/A,1.71,52.63,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+IPSWICH,United Kingdom,EGSE,N/A,1.20,52.03,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PETERBOROUGH/CONINGTON,United Kingdom,EGSF,N/A,-0.25,52.46,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+STAPLEFORD,United Kingdom,EGSG,N/A,0.15,51.65,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NORWICH AIRFIELD,United Kingdom,EGSH,2021/05/21 03:50:00,1.28,52.68,220 °,17 kt,-,No,N/A,9999 m,2800 ft,11 °C,7 °C,4 °C,"METAR EGSH 210350Z AUTO 22017KT 180V270 <font color=""blue"">9999</font> <font color=""blue"">BKN028///</font> OVC034///<br/>
+    11/07 Q0995","TAF  EGSH 210155Z 2103/2112 21016G28KT <font color=""blue"">9999</font> <font color=""blue"">BKN030</font> TEMPO 2103/2112<br/>
+    22026G38KT TEMPO 2109/2112 <font color=""white"">7000</font> RA SHRA"
+SEETHING,United Kingdom,EGSJ,N/A,1.41,52.51,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HETHEL,United Kingdom,EGSK,N/A,1.18,52.56,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+ANDREWSFIELD,United Kingdom,EGSL,N/A,0.45,51.90,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BOURN,United Kingdom,EGSN,N/A,-0.03,52.21,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CROWFIELD,United Kingdom,EGSO,N/A,1.11,52.16,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PETERBOROUGH/SIBSON,United Kingdom,EGSP,N/A,-0.38,52.55,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+EARLS COLNE,United Kingdom,EGSR,N/A,0.68,51.91,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+STANSTED AIRPORT,United Kingdom,EGSS,2021/05/21 03:50:00,0.23,51.88,220 °,21 kt,31 kt,No,N/A,9999 m,2300 ft,11 °C,7 °C,4 °C,"METAR EGSS 210350Z AUTO 22021G31KT 9999 <font color=""white"">BKN023</font> OVC034 11/07<br/>
+    Q0997", 
+DUXFORD,United Kingdom,EGSU,N/A,0.13,52.08,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NORTH WEALD,United Kingdom,EGSX,N/A,0.15,51.71,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SHEFFIELD CITY AIRPORT,United Kingdom,EGSY,N/A,-1.38,53.40,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WYCOMBE AIR PARK/BOOKER,United Kingdom,EGTB,N/A,-0.80,51.61,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CRANFIELD,United Kingdom,EGTC,N/A,-0.61,52.06,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+DUNSFOLD,United Kingdom,EGTD,N/A,-0.53,51.11,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+EXETER AIRPORT,United Kingdom,EGTE,N/A,-3.41,50.73,-,-,-,N/A,N/A,-,-,-,-,-,-,TAF  EGTE 210329Z 2100/2104 CNL
+FAIROAKS,United Kingdom,EGTF,N/A,-0.55,51.35,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+FILTON,United Kingdom,EGTG,N/A,-2.58,51.51,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+OXFORD/KIDLINGTON,United Kingdom,EGTK,N/A,-1.31,51.83,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+ROCHESTER,United Kingdom,EGTO,N/A,0.50,51.35,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+PERRANPORTH,United Kingdom,EGTP,N/A,-5.18,50.33,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+ELSTREE,United Kingdom,EGTR,N/A,-0.31,51.65,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+OAKSEY PARK,United Kingdom,EGTW,N/A,-2.01,51.63,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BENSON,United Kingdom,EGUB,2021/05/21 03:50:00,-1.10,51.61,200 °,20 kt,32 kt,No,N/A,9999 m,2400 ft,11 °C,6 °C,5 °C,"METAR EGUB 210350Z AUTO 20020G32KT 9999 // <font color=""white"">BKN024///</font> BKN035/// 11/06 Q0996",TAF  EGUB 210101Z 2100/2103 CNL
+ABERPORTH,United Kingdom,EGUC,N/A,-4.56,52.13,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+Farnborough Military,United Kingdom,EGUF,N/A,-0.77,51.28,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+"HIGH WYCOMBE, HQSTC",United Kingdom,EGUH,N/A,-0.80,51.68,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LAKENHEATH,United Kingdom,EGUL,2021/05/21 03:56:00,0.56,52.41,220 °,21 kt,32 kt,No,N/A,9999 m,3300 ft,11 °C,4 °C,7 °C,"METAR EGUL 210356Z AUTO 22021G32KT <font color=""blue"">9999</font> <font color=""blue"">BKN033</font> BKN041 11/04 A2937 RMK<br/>
+      AO2 PK WND 23032/48 SLP949 T01140039 $","TAF  EGUL 210400Z 2104/2210 21020G35KT <font color=""blue"">9999</font> <font color=""blue"">BKN030</font> 620607 520003<br/>
+     QNH2927INS<br/>
+     BECMG 2110/2111 22025G40KT 9000 -SHRA <font color=""white"">BKN020</font> 610608 520003<br/>
+     QNH2924INS<br/>
+     BECMG 2115/2116 22020G35KT 8000 -SHRA <font color=""white"">BKN020</font> 610608 520003<br/>
+     QNH2922INS<br/>
+     BECMG 2117/2118 22020G30KT 8000 -SHRA <font color=""white"">BKN020</font> 610608 510003<br/>
+     QNH2923INS<br/>
+     BECMG 2122/2123 23015G20KT 8000 -SHRA <font color=""white"">BKN015</font> 610608<br/>
+     QNH2928INS<br/>
+     BECMG 2200/2201 27010G15KT 9000 -SHRA <font color=""green"">BKN010</font> 610608<br/>
+     QNH2930INS<br/>
+     BECMG 2208/2209 31010G15KT 9000 -SHRA <font color=""white"">BKN020</font> 610608<br/>
+     QNH2952INS TX14/2113Z TN09/2203Z"
+MILDENHALL,United Kingdom,EGUN,2021/05/21 03:56:00,0.48,52.36,220 °,17 kt,25 kt,No,N/A,9999 m,3000 ft,11 °C,9 °C,2 °C,"METAR EGUN 210356Z 22017G25KT <font color=""blue"">9999</font> <font color=""blue"">OVC030</font> 11/09 A2938 RMK AO2A PK WND<br/>
+      21029/17 SLP952 T01130087 $","TAF  EGUN 210400Z 2104/2210 21015G25KT 9999 <font color=""white"">BKN020</font> OVC030 610409<br/>
+     510003 QNH2937INS<br/>
+     TEMPO 2104/2107 21025G35KT <font color=""blue"">9000</font> -SHRA<br/>
+     BECMG 2106/2107 21025G35KT 9999 <font color=""white"">BKN020</font> OVC030 610508<br/>
+     520003 QNH2932INS<br/>
+     TEMPO 2107/2111 21030G40KT<br/>
+     BECMG 2110/2111 22030G40KT 9999 <font color=""white"">BKN020</font> OVC030 610508<br/>
+     520003 QNH2925INS<br/>
+     TEMPO 2111/2116 22035G45KT <font color=""blue"">8000</font> -SHRA<br/>
+     BECMG 2115/2116 23020G30KT <font color=""blue"">9999</font> <font color=""blue"">BKN030</font> OVC040 610508<br/>
+     520003 QNH2920INS<br/>
+     TEMPO 2118/2120 23025G35KT <font color=""blue"">9000</font> -SHRA<br/>
+     BECMG 2119/2120 23015G25KT 9000 -SHRA <font color=""white"">BKN015</font> OVC025 610508<br/>
+     510003 QNH2924INS<br/>
+     BECMG 2123/2124 26010G20KT 9000 -SHRA <font color=""white"">BKN015</font> OVC025 610508<br/>
+     QNH2929INS<br/>
+     BECMG 2207/2208 30015G20KT <font color=""blue"">9999</font> NSW <font color=""blue"">BKN030</font> QNH2950INS<br/>
+     TX13/2112Z TN09/2204Z"
+COLERNE,United Kingdom,EGUO,N/A,-2.28,51.43,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SCULTHORPE,United Kingdom,EGUP,N/A,0.76,52.85,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LEE-ON-SOLENT,United Kingdom,EGUS,N/A,-1.22,50.82,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WATTISHAM,United Kingdom,EGUW,2021/05/21 03:50:00,0.96,52.11,220 °,17 kt,28 kt,No,N/A,9999 m,2700 ft,11 °C,6 °C,5 °C,"METAR EGUW 210350Z AUTO 22017G28KT <font color=""blue"">9999</font> <font color=""blue"">SCT027///</font> BKN035/// BKN080/// 11/06 Q0996", 
+WYTON,United Kingdom,EGUY,N/A,-0.11,52.35,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+FAIRFORD,United Kingdom,EGVA,N/A,-1.78,51.68,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WOODBRIDGE,United Kingdom,EGVG,N/A,1.40,52.08,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+GREENHAM COMMON,United Kingdom,EGVI,N/A,-1.28,51.38,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BENTWATERS,United Kingdom,EGVJ,N/A,1.43,52.13,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+BRIZE NORTON,United Kingdom,EGVN,2021/05/21 03:50:00,-1.58,51.76,220 °,13 kt,25 kt,No,Slight rain,8000 m,1600 ft,9 °C,7 °C,2 °C,"METAR EGVN 210350Z 22013G25KT 8000 -RA <font color=""white"">BKN016</font> OVC023 09/07 Q0995  TEMPO 5000 RADZ RMK WHT TEMPO WHT","TAF  EGVN 210117Z 2103/2203 21018G28KT <font color=""blue"">9999</font> <font color=""blue"">BKN030</font> TEMPO 2103/2121<br/>
+    <font color=""white"">6000</font> -RA <font color=""white"">SCT020</font> PROB30 TEMPO 2103/2106 <font color=""green"">4000</font> RADZ PROB30 TEMPO<br/>
+    2106/2121 <font color=""green"">4000</font> RADZ <font color=""green"">SCT010</font> BECMG 2113/2115 24016G28KT BECMG<br/>
+    2118/2121 25014KT BECMG 2121/2124 BKN008 TEMPO 2121/2203 <font color=""white"">5000</font><br/>
+    RA"
+ODIHAM,United Kingdom,EGVO,2021/05/21 03:50:00,-0.93,51.23,210 °,19 kt,-,No,N/A,9999 m,2700 ft,10 °C,7 °C,3 °C,"METAR EGVO 210350Z AUTO 21019KT <font color=""blue"">9999</font> FEW027/// <font color=""blue"">BKN050///</font> 10/07 Q0998 RERA", 
+MIDDLE WALLOP,United Kingdom,EGVP,2021/05/21 03:50:00,-1.56,51.15,220 °,17 kt,28 kt,No,N/A,9999 m,1900 ft,10 °C,7 °C,3 °C,"METAR EGVP 210350Z AUTO 22017G28KT <font color=""blue"">9999</font> FEW019/// <font color=""blue"">BKN050///</font> 10/07 Q0998 RERA", 
+WETHERSFIELD,United Kingdom,EGVT,N/A,0.50,51.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+COSFORD,United Kingdom,EGWC,N/A,-2.30,52.63,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HALTON,United Kingdom,EGWN,N/A,-0.73,51.80,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NORTHOLT,United Kingdom,EGWU,2021/05/21 03:50:00,-0.41,51.55,230 °,17 kt,27 kt,No,N/A,9999 m,5000 ft,11 °C,7 °C,4 °C,"METAR EGWU 210350Z AUTO 23017G27KT <font color=""blue"">9999</font> // <font color=""blue"">BKN050///</font> 11/07 Q0997", 
+NORTHWOOD,United Kingdom,EGWX,N/A,-0.40,51.62,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+ALCONBURY,United Kingdom,EGWZ,N/A,-0.21,52.36,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CONINGSBY,United Kingdom,EGXC,2021/05/21 03:50:00,-0.16,53.08,200 °,20 kt,-,No,N/A,9999 m,2000 ft,10 °C,8 °C,2 °C,"METAR EGXC 210350Z 20020KT <font color=""blue"">9999</font> FEW020 <font color=""blue"">BKN036</font> BKN110 10/08 Q0991  RMK BLU","TAF  EGXC 210150Z 2103/2121 20020G30KT <font color=""blue"">9999</font> <font color=""blue"">BKN025</font> TEMPO 2103/2121<br/>
+    BKN020 PROB30 TEMPO 2103/2106 <font color=""white"">7000</font> RA PROB30 TEMPO 2103/2116<br/>
+    BKN012 TEMPO 2106/2121 <font color=""white"">5000</font> RA PROB30 TEMPO 2116/2121 <font color=""green"">4000</font> SHRA<br/>
+    <font color=""green"">BKN010</font>"
+DISHFORTH AIRFIELD,United Kingdom,EGXD,N/A,-1.41,54.13,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+LEEMING,United Kingdom,EGXE,2021/05/21 03:50:00,-1.53,54.30,140 °,10 kt,-,No,Slight rain,9999 m,1300 ft,10 °C,9 °C,1 °C,"METAR EGXE 210350Z AUTO 14010KT 9999 -RA <font color=""green"">SCT013///</font> BKN020/// 10/09 Q0987", 
+HONINGTON,United Kingdom,EGXH,N/A,0.77,52.33,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+COTTESMORE,United Kingdom,EGXJ,N/A,-0.65,52.73,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+NEWTON,United Kingdom,EGXN,N/A,-0.98,52.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+SCAMPTON,United Kingdom,EGXP,2021/05/21 03:50:00,-0.55,53.31,210 °,16 kt,-,No,N/A,9999 m,1600 ft,10 °C,8 °C,2 °C,"METAR EGXP 210350Z AUTO 21016KT 9999 // <font color=""white"">SCT016///</font> BKN023/// 10/08 Q0990", 
+DONNA NOOK NO 2,United Kingdom,EGXX,N/A,0.15,53.46,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+WITTERING,United Kingdom,EGXT,2021/05/21 03:50:00,-0.46,52.61,210 °,19 kt,29 kt,No,N/A,9999 m,1600 ft,10 °C,7 °C,3 °C,"METAR EGXT 210350Z AUTO 21019G29KT 9999 <font color=""white"">BKN016///</font> BKN024/// 10/07 Q0992 REUP", 
+LINTON-ON-OUSE,United Kingdom,EGXU,2021/05/21 03:50:00,-1.25,54.05,160 °,12 kt,-,No,Slight rain,9999 m,2400 ft,10 °C,9 °C,1 °C,"METAR EGXU 210350Z AUTO 16012KT 9999 -RA <font color=""white"">BKN024///</font> 10/09 Q0987", 
+LECONFIELD,United Kingdom,EGXV,2021/05/21 03:50:00,-0.43,53.87,0,0 kt,-,No,N/A,9999 m,2800 ft,10 °C,8 °C,2 °C,"METAR EGXV 210350Z AUTO 00000KT <font color=""blue"">9999</font> FEW028/// <font color=""blue"">BKN035///</font> BKN060/// 10/08 Q0989 RERA", 
+WADDINGTON,United Kingdom,EGXW,2021/05/21 03:50:00,-0.51,53.16,200 °,21 kt,-,No,N/A,9999 m,1700 ft,10 °C,7 °C,3 °C,"METAR EGXW 210350Z AUTO 20021KT <font color=""blue"">9999</font> FEW017/// <font color=""blue"">BKN033///</font> 10/07 Q0990", 
+DONNA NOOK NO 2,United Kingdom,EGXX,N/A,0.15,53.46,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+TOPCLIFFE,United Kingdom,EGXZ,2021/05/21 03:50:00,-1.38,54.20,140 °,12 kt,-,No,Slight rain,9999 m,2100 ft,10 °C,9 °C,1 °C,"METAR EGXZ 210350Z AUTO 14012KT 9999 -RA <font color=""white"">BKN021///</font> SCT029/// 10/09 Q0987", 
+CRANWELL,United Kingdom,EGYD,2021/05/21 03:50:00,-0.50,53.03,200 °,24 kt,34 kt,No,N/A,9999 m,1700 ft,10 °C,8 °C,2 °C,"METAR EGYD 210350Z AUTO 20024G34KT <font color=""blue"">9999</font> // FEW017/// <font color=""blue"">BKN039///</font> 10/08 Q0991", 
+BARKSTON HEATH,United Kingdom,EGYE,N/A,-0.56,52.96,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+HOLBEACH NO 3,United Kingdom,EGYH,N/A,0.13,52.86,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+MARHAM,United Kingdom,EGYM,2021/05/21 03:50:00,0.56,52.65,200 °,19 kt,-,No,N/A,9999 m,3000 ft,11 °C,7 °C,4 °C,"METAR EGYM 210350Z 20019KT <font color=""blue"">9999</font> <font color=""blue"">BKN030</font> 11/07 Q0994 BLU", 
+WAINFLEET NO 2,United Kingdom,EGYW,N/A,0.26,53.08,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CORK AIRPORT,Ireland,EICK,2021/05/21 04:00:00,-8.48,51.85,270 °,17 kt,27 kt,No,N/A,9999 m,1200 ft,9 °C,7 °C,2 °C,"METAR EICK 210400Z 27017G27KT <font color=""blue"">9999</font> FEW012 <font color=""blue"">SCT035</font> BKN080 09/07 Q0994<br/>
+     TEMPO BKN012", 
+DUBLIN AIRPORT,Ireland,EIDW,2021/05/21 04:00:00,-6.25,53.43,280 °,17 kt,-,No,Slight rain,5000 m,400 ft,9 °C,8 °C,1 °C,"METAR EIDW 210400Z 28017KT 5000 -RA FEW004 <font color=""green"">BKN008</font> 09/08 Q0985 NOSIG", 
+CONNAUGHT AIRPORT,Ireland,EIKN,N/A,-8.81,53.90,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+CASEMENT AERODROME,Ireland,EIME,2021/05/21 04:00:00,-6.43,53.30,280 °,16 kt,-,No,Slight drizzle,2000 m,300 ft,9 °C,8 °C,1 °C,"METAR EIME 210400Z 28016KT <font color=""yellow"">2000</font> -DZ <font color=""yellow"">SCT003</font> BKN004 BKN005 09/08 Q0986","TAF  EIME 210404Z 2104/2112 29014KT 9999 <font color=""green"">SCT010</font> BKN020 TEMPO<br/>
+         2104/2109 29016G27KT TEMPO 2104/2106 <font color=""yellow"">2000</font> -SHRA <font color=""yellow"">BKN004</font><br/>
+         TEMPO 2106/2112 <font color=""green"">4000</font> -SHRA <font color=""green"">BKN007</font> PROB30 TEMPO 2106/2111<br/>
+         2500 <font color=""yellow"">BKN004</font> PROB40 TEMPO 2109/2112 29014G25KT"
+SHANNON AIRPORT,Ireland,EINN,2021/05/21 04:00:00,-8.91,52.70,290 °,12 kt,-,No,Slight rain,9999 m,1600 ft,10 °C,8 °C,2 °C,"METAR EINN 210400Z 29012KT <font color=""blue"">9999</font> -RA FEW016 <font color=""blue"">BKN033</font> 10/08 Q0994 NOSIG", 
+FRIGG,Norway,ENFR,N/A,2.25,59.98,-,-,-,N/A,N/A,-,-,-,-,-,-, 
+GULLFAX C,Norway,ENGC,2021/05/21 03:50:00,2.28,61.21,020 °,16 kt,-,No,N/A,9999 m,1500 ft,5 °C,1 °C,4 °C,"METAR ENGC 210350Z 02016KT <font color=""blue"">9999</font> FEW015 <font color=""blue"">SCT025</font> 05/01 Q1004 W06/S4","TAF  ENGC 210200Z 2103/2203 04018KT <font color=""blue"">9999</font> FEW020 <font color=""blue"">SCT045</font> PROB40<br/>
+         2200/2203 BKN012"
+OSEBERG A,Norway,ENOA,2021/05/21 03:50:00,2.83,60.48,040 °,12 kt,-,No,N/A,9999 m,2800 ft,6 °C,0 °C,6 °C,"METAR ENOA 210350Z 04012KT 360V090 <font color=""blue"">9999</font> FEW028 <font color=""blue"">SCT045</font> 06/00 Q1004<br/>
+           W///S3","TAF  ENOA 210200Z 2103/2203 04018KT <font color=""blue"">9999</font> FEW020 <font color=""blue"">SCT045</font> PROB40<br/>
+         2121/2203 BKN006"
